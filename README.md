@@ -1,6 +1,6 @@
-# Lumbar Labs Inc.
+# Lumber Labs Inc.
 
-> ⚠️ **DEMO COMPANY NOTICE**: Lumbar Labs Inc. is a fictional company created for demonstration purposes only. This is not a real business.
+> ⚠️ **DEMO COMPANY NOTICE**: Lumber Labs Inc. is a fictional company created for demonstration purposes only. This is not a real business.
 
 *"Cutting-edge technology for cutting-edge timber."*
 
@@ -8,7 +8,7 @@
 
 ## About Us
 
-Lumbar Labs Inc. is a technology-driven lumber and wood products company that bridges traditional forestry with modern innovation. We sell lumber and wood-based products directly to businesses and consumers, combining quality craftsmanship with cutting-edge technology.
+Lumber Labs Inc. is a technology-driven lumber and wood products company that bridges traditional forestry with modern innovation. We sell lumber and wood-based products directly to businesses and consumers, combining quality craftsmanship with cutting-edge technology.
 
 ## What We Do
 
@@ -33,7 +33,7 @@ To revolutionize the lumber industry by combining traditional woodworking expert
 
 ## Repository Information
 
-This is the organizational `.github` repository for Lumbar Labs Inc., containing default community health files and organizational documentation.
+This is the organizational `.github` repository for Lumber Labs Inc., containing default community health files and organizational documentation.
 
 ### Contents
 - Organization profile README
